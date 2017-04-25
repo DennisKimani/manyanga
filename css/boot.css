@@ -1,0 +1,13 @@
+
+h1{color: purple;
+font-style: italic;
+}
+
+h2{color: white;font-style: oblique;
+}
+
+body {
+  color:green;
+  style="background-image= url(travelling.jpg)"
+}
+{background-image: travelling.jpg}
